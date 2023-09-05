@@ -6,7 +6,7 @@ I'm Bogdan,
 - [🤖](https://github.com/BogdanW3/ghostpp) reverse engineering and coding enthusiast
 - [📊](https://github.com/BogdanW3/koeficijent_etf) always trying to help out where I can
 - [👑](https://github.com/W3Champions) occassionally tinkering on W3Champions, check them out if you play War3
-- [📚](https://rti.etf.bg.ac.rs/rti/NEW_RTI/about.html) electrical and computer engineering student at the University of Belgrade's Faculty of Electrical Engineering.
+- [📚](https://github.com/BogdanW3/nessy) electrical and computer engineering student at the University of Belgrade's Faculty of Electrical Engineering.
 - [🏺](https://github.com/BogdanW3/Blender_WarCraft-3) interested in 3d modelling
 - [⛏️](https://github.com/BogdanW3/Test) Minecraft player
 
